@@ -1,0 +1,4 @@
+"Group/Prot"	"Global Spec ID"	"Assay Name"	"Assay Date"	"Run ID"	"Drug"	"Conc"	"Units"	"Lower Limit"	"Upper Limit"	"Censors"	"Reviewed"
+"MTN 034.0"	"D901M012-01"	"SINGLE POINT CALIBRATION 1"	"30/Apr/2019"	12201	"DPV"	"19.800"	"mg"	18.000	24.900	""	"Y"
+"MTN 034.0"	"D901M2X4-01"	"SINGLE POINT CALIBRATION 1"	"30/Apr/2019"	12201	"DPV"	"20.200"	"mg"	18.000	24.900	""	"Y"
+"MTN 034.0"	"F901M6WX-01"	"SINGLE POINT CALIBRATION 1"	"30/Apr/2019"	12201	"DPV"	"20.600"	"mg"	18.000	24.900	""	"Y"

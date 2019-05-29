@@ -1,0 +1,41 @@
+"PK Summary with Assay Name"
+
+"Searched on:  Run ID = 13137"
+
+"Group/Prot:"	"CONTROL TNF-DP"
+"Global "	"Spec "
+"PID/ID1"	"Specimen ID"	"Assay Name"	"Spec Date"	"VID"	"Time/Unit"	"Assay Date"	"Run ID"	"Pri"	"Add"	"Der"	"Drug"	"Conc"	"Units"	"Censors"	"Reviewed"
+"QCH"	"499V18000348"	"DEP02WPW-19"	"AM2015/169 TFV-DP DBS V4"	"04/Oct/2018"	""	"00:00"	"0.00 Ran"	"02/Apr/2019"	13137	"BLD"	"EDT"	"DBS"	"TFVDP"	352.000	"FMOL/SAMPLE"	""	"Y"
+"QCH"	"499V18000348"	"DEP02WPW-20"	"AM2015/169 TFV-DP DBS V4"	"04/Oct/2018"	""	"00:00"	"0.00 Ran"	"02/Apr/2019"	13137	"BLD"	"EDT"	"DBS"	"TFVDP"	306.000	"FMOL/SAMPLE"	""	"Y"
+
+"Group/Prot:"	"CONTROL TNF-DP"
+"Global "	"Spec "
+"PID/ID1"	"Specimen ID"	"Assay Name"	"Spec Date"	"VID"	"Time/Unit"	"Assay Date"	"Run ID"	"Pri"	"Add"	"Der"	"Drug"	"Conc"	"Units"	"Censors"	"Reviewed"
+"QCL"	"499V18000352"	"FEP02WRW-19"	"AM2015/169 TFV-DP DBS V4"	"04/Oct/2018"	""	"00:00"	"0.00 Ran"	"02/Apr/2019"	13137	"BLD"	"EDT"	"DBS"	"TFVDP"	12.400	"FMOL/SAMPLE"	"(B)"	"Y"
+"QCL"	"499V18000352"	"FEP02WRW-20"	"AM2015/169 TFV-DP DBS V4"	"04/Oct/2018"	""	"00:00"	"0.00 Ran"	"02/Apr/2019"	13137	"BLD"	"EDT"	"DBS"	"TFVDP"	11.400	"FMOL/SAMPLE"	"(B)"	"Y"
+
+"Group/Prot:"	"CONTROL TNF-DP"
+"Global "	"Spec "
+"PID/ID1"	"Specimen ID"	"Assay Name"	"Spec Date"	"VID"	"Time/Unit"	"Assay Date"	"Run ID"	"Pri"	"Add"	"Der"	"Drug"	"Conc"	"Units"	"Censors"	"Reviewed"
+"QCM"	"499V18000350"	"AEP02WQW-19"	"AM2015/169 TFV-DP DBS V4"	"04/Oct/2018"	""	"00:00"	"0.00 Ran"	"02/Apr/2019"	13137	"BLD"	"EDT"	"DBS"	"TFVDP"	170.000	"FMOL/SAMPLE"	""	"Y"
+"QCM"	"499V18000350"	"AEP02WQW-20"	"AM2015/169 TFV-DP DBS V4"	"04/Oct/2018"	""	"00:00"	"0.00 Ran"	"02/Apr/2019"	13137	"BLD"	"EDT"	"DBS"	"TFVDP"	151.000	"FMOL/SAMPLE"	""	"Y"
+
+"Group/Prot:"	"CONTROL TNF-DP"
+"Global "	"Spec "
+"PID/ID1"	"Specimen ID"	"Assay Name"	"Spec Date"	"VID"	"Time/Unit"	"Assay Date"	"Run ID"	"Pri"	"Add"	"Der"	"Drug"	"Conc"	"Units"	"Censors"	"Reviewed"
+"QCXH"	"499V18000346"	"HEP02WNW-19"	"AM2015/169 TFV-DP DBS V4"	"04/Oct/2018"	""	"00:00"	"0.00 Ran"	"02/Apr/2019"	13137	"BLD"	"EDT"	"DBS"	"TFVDP"	1,064.000	"FMOL/SAMPLE"	""	"Y"
+"QCXH"	"499V18000346"	"HEP02WNW-20"	"AM2015/169 TFV-DP DBS V4"	"04/Oct/2018"	""	"00:00"	"0.00 Ran"	"02/Apr/2019"	13137	"BLD"	"EDT"	"DBS"	"TFVDP"	856.000	"FMOL/SAMPLE"	""	"Y"
+
+
+
+"Group/Prot:"	"MTN 034.0"
+"Global "	"Spec "
+"PID/ID1"	"Specimen ID"	"Assay Name"	"Spec Date"	"VID"	"Time/Unit"	"Assay Date"	"Run ID"	"Pri"	"Add"	"Der"	"Drug"	"Conc"	"Units"	"Censors"	"Reviewed"
+"753387949"	"301V19003205"	"J8V0S1HX-01"	"AM2015/169 TFV-DP DBS V4"	"18/Mar/2019"	"4.00 Vst"	"12:53"	""	"02/Apr/2019"	13137	"BLD"	"EDT"	"DBS"	"TFVDP"	1,136.000	"FMOL/SAMPLE"	""	"Y"
+
+
+
+
+
+"RMPKSumWithAssay.rpt"
+"Created on 16/May/2019 at 06:31:23PM"	"Page -1 of 1"
