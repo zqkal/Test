@@ -1,0 +1,61 @@
+http://svn.pc.scharp.org/svn/repos/ldo/LabDataOps_managed/protocol_assay_processor/trunk/common/code/sas/sasmacro/assay_code/NGS/
+http://svn.pc.scharp.org/svn/repos/ldo/LabDataOps_managed/protocol_assay_processor/trunk/mtn/code/protocols/020
+
+====>Note: Specimen monitoring 
+checkout the trank
+branch /tag -> select the branch from the repo browser -> add the new branch folder name (ex. hptn_084)
+select head revision and select create intermidiate folders
+checkout the branch 
+modify the code
+checking the code 
+create code review 
+update trunch 
+merge branch to trunck ->right click on trunck -> click merge -> select branch
+commit trunck 
+deploy step: 
+buildhistory -c /trials/LabDataOps/managed_code/
+cd to trunk folder ->
+ldo_svn promote 
+ldo_svn deploy
+delete branch 
+
+====>Note: PAP
+checkout the trank
+branch /tag -> select the branch -> add the new branch folder name (ex. hptn_084)
+select heard revision and select create intermidiate folders
+checkout the branch 
+run create folder script 
+copy test data (.txt un processed files into the data folder) 
+run pap 
+
+====>Note: to check in the code 
+merge trunk to branch 
+commit the trunck
+
+buildhistory -c /trials/LabDataOps/managed_code/ *to check build history; 
+cd to the devel location where you have the checked out trunck -> cd to the trunck folder 
+promote the changes if everything looks okay 
+ldo_svn promote 
+ldo_svn deploy
+delete branch 
+
+./Run_Assay_Processing.pl network=mtn protocol=020 copy_data=1
+
+commit changes to the branch 
+for example: svn commit -m "klebeta: make changes to convert sensitivity variable from numeric to character"
+NGS01_check_assay_results.sas NGS01_get_assay_results.sas
+
+
+/*else if (sensitivity <= &min_val. or sensitivity >= &max_val.) then do; 
+               problem_code=28;
+               problem_text='Sample sensitivity is out of range: "' || strip(sensitivityc) || '".  Allowed range is '|| strip(put(&min_val., best.)) || ' to ' || strip(put(&max_val., best.)) ;
+               output errors_record;
+            end;
+*/
+ainhold = /scharp/devel/klebeta//mtn_020_v2/mtn/protocols/020/data/assay/incoming/hold
+
+rawdata = /scharp/devel/klebeta//mtn_020_v2/mtn/protocols/020/data/assay
+
+ainhold.MTN020_NGS_E_raw
+
+ainhold. 
